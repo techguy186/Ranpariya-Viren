@@ -1,0 +1,125 @@
+nav{
+	font-size: 18px;
+	background: #000000;
+}
+.one{
+	text-align: center;
+}
+.one:hover{
+	font-weight: bold; 
+}
+
+.one:active{
+	border: 1px solid #ffffff;
+	border-radius: 10px;
+}
+#Home{
+
+	padding: 4% 2% 5% 2%;
+	margin: 7% 2% 3% 2%;
+	transition: 0.3s;
+
+}
+.two{
+
+	padding-top: 5%;
+	padding-left: 5%;
+}
+.three{
+
+	font-size: 20px;
+
+}
+.threeone{
+
+	font-size: 50px;
+	padding-top: 10px;
+}
+.threetwo{
+	padding-top: 50px;
+	font-weight: bold;
+}
+.four{
+  
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img{
+	text-align: center;
+}
+.five{
+	padding: 5%;
+}
+.fiveone{
+	font-size: 20px;
+	font-weight: bold;
+}
+.six{
+	padding-bottom: 5%;
+	padding-left: 5%;
+}
+.sixone{
+  padding-bottom: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.seven{
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 1%;
+}
+.sevenone{
+	padding-bottom: 10%;
+	font-size: 20px;
+	font-weight: bold;
+}
+.eight{
+	padding-left: 5%;
+}
+.eightone{
+	 max-width: 40%;
+	 margin-left: 5%;
+	 padding: 1%;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding-bottom: 1%;
+	margin-bottom: 2%;
+}
+.eightone:hover {
+  -webkit-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
+.eightone:hover::after {
+    opacity: 1;
+}
+html {
+  scroll-behavior: smooth;
+}
+.nine{
+	background: black;
+	color: white;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 5%;
+	font-size: 20px;
+	font-weight: bold;
+}
+.nineone{ 
+	padding-bottom: 5%;
+	background: black;
+	color: white;
+	text-align: center;
+	padding-left: 5%;
+	font-size: 40px;
+}
+.ten{
+	background: black;
+	color: white;
+	text-align: center;
+}
+#ten:hover{
+	color: lightgreen;
+}
